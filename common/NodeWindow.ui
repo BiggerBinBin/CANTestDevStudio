@@ -1,0 +1,22 @@
+<UI version="4.0" >
+ <class>NodeWindowClass</class>
+ <widget class="QWidget" name="NodeWindowClass" >
+  <property name="objectName" >
+   <string notr="true">NodeWindowClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>NodeWindow</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <connections/>
+</UI>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Lyb-file\Code\Tools-dev\CANTestDevStudio\CANTestDevStudio\build\CMakeFiles\5bc6bcf86f744bb0edf1f0a0d5648db4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3ADE35CC-C4C5-3F81-8862-6F806F585881}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

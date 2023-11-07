@@ -1,0 +1,287 @@
+{
+	"BUILD_DIR" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen",
+	"CMAKE_BINARY_DIR" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/CMakeLists.txt",
+		"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/3.25.1/CMakeSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake",
+		"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake",
+		"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/3.25.1/CMakeRCCompiler.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeParseArguments.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeParseArguments.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/CANTestDevStudio.h",
+			"MU",
+			"EWIEGA46WW/moc_CANTestDevStudio.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/DecimalData.h",
+			"MU",
+			"P66WHCG54J/moc_DecimalData.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/Delegate/mComboboxDelegate.h",
+			"MU",
+			"7UWYAGXWMD/moc_mComboboxDelegate.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/DeviceCANModel.h",
+			"MU",
+			"P66WHCG54J/moc_DeviceCANModel.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/DeviceLINModel.h",
+			"MU",
+			"P66WHCG54J/moc_DeviceLINModel.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeFunctionStack.h",
+			"MU",
+			"P66WHCG54J/moc_NodeFunctionStack.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeGlobeData.h",
+			"MU",
+			"P66WHCG54J/moc_NodeGlobeData.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeParameterManage.h",
+			"MU",
+			"P66WHCG54J/moc_NodeParameterManage.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodePropertyWidget.h",
+			"MU",
+			"P66WHCG54J/moc_NodePropertyWidget.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeShowTableImplement.h",
+			"MU",
+			"P66WHCG54J/moc_NodeShowTableImplement.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeWindow.h",
+			"MU",
+			"P66WHCG54J/moc_NodeWindow.cpp",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/SendCANModel.h",
+			"MU",
+			"P66WHCG54J/moc_SendCANModel.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/include",
+	"INCLUDE_DIR_Debug" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/mocs_compilation.cpp",
+	"MOC_COMPILATION_FILE_Debug" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/mocs_compilation_Debug.cpp",
+	"MOC_COMPILATION_FILE_MinSizeRel" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/mocs_compilation_MinSizeRel.cpp",
+	"MOC_COMPILATION_FILE_RelWithDebInfo" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/mocs_compilation_RelWithDebInfo.cpp",
+	"MOC_COMPILATION_FILE_Release" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/mocs_compilation_Release.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"NODE_EDITOR_SHARED",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"WIN32"
+	],
+	"MOC_DEFINITIONS_Debug" : 
+	[
+		"NODE_EDITOR_SHARED",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"WIN32"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build",
+		"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio",
+		"E:/AppInstall/NodeLibaray/include/QtNodes",
+		"E:/AppInstall/NodeLibaray/include/QtNodes/internal",
+		"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/include",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/include/QtWidgets",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/include/QtGui",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/include/QtANGLE",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/include/QtCore",
+		"E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/mkspecs/win32-msvc"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_MinSizeRel" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/ParseCache_MinSizeRel.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/AutogenUsed_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/CANTestDevStudio_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/CANTestDevStudio.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/DecimalData.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/Delegate/mComboboxDelegate.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/DeviceCANModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/DeviceLINModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeFunctionStack.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeGlobeData.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeParameterManage.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodePropertyWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeShowTableImplement.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/NodeWindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/common/SendCANModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/main.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

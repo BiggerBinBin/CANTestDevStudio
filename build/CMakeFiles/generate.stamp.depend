@@ -1,0 +1,50 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake
+E:/AppInstall/VS_MSVP_Complier/5.15.2/msvc2019_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake
+F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/CMakeLists.txt
+F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake
+F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/3.25.1/CMakeRCCompiler.cmake
+F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CMakeFiles/3.25.1/CMakeSystem.cmake
