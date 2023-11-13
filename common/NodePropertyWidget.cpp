@@ -162,7 +162,10 @@ void NodePropertyWidget::nodeDeviceLINPropertyShow(NodeId id)
 	qComboxBaud->setCurrentIndex(m_qlBaudRate.indexOf(devParem.uBaudRate));
 	m_propertyTable->setCellWidget(4, 1, qComboxBaud);
 
-	
+	//Build slots, Notic:using QOVerload<param...>of(& arg)
+	connect(qCombox, QOverload<int>::of(&QComboBox::currentIndexChanged), this, &NodePropertyWidget::on_LINTypeCombobox_IndexChanged);
+	connect(qComboxChannel, QOverload<int>::of(&QComboBox::currentIndexChanged), this, &NodePropertyWidget::on_LINTypeCombobox_IndexChanged);
+	connect(qComboxBaud, QOverload<int>::of(&QComboBox::currentIndexChanged), this, &NodePropertyWidget::on_LINTypeCombobox_IndexChanged);
 }
 void NodePropertyWidget::on_CANTypeCombobox_IndexChanged(int index)
 {
@@ -236,6 +239,80 @@ void NodePropertyWidget::on_CANTypeCombobox_IndexChanged(int index)
 	}
 	pGd.pData.at(nId).ModelParam = QVariant::fromValue(devParem);
 }
+
+void NodePropertyWidget::on_LINTypeCombobox_IndexChanged(int index)
+{
+	if (!m_grapshics) { return; }
+	if (!m_propertyTable) { return; }
+	//Get Node Id from table
+	uint nId = m_propertyTable->item(1, 1)->text().toUInt();
+	//Find the ID from selectedNodes
+	//auto result = std::find_if(m_grapshics->selectedNodes().cbegin(), m_grapshics->selectedNodes().cend(), [nId](uint x) {return x == nId; });
+	bool b_find = false;
+	for (auto i : m_grapshics->selectedNodes())
+	{
+		if (i == nId)
+		{
+			b_find = true;
+		}
+	}
+	//if the node not select,return
+	if (!b_find)
+	{
+		return;
+	}
+
+	int current_row = m_propertyTable->currentRow();
+	if (current_row < 0) { return; }
+
+	QComboBox* cb = dynamic_cast<QComboBox*>(sender());
+	if (!cb) { return; }
+
+	NodeGlobeData& pGd = NodeGlobeData::getInstance();
+	//if ID not find in map,break;
+	if (pGd.pData.find(nId) == pGd.pData.end())
+	{
+		return;
+	}
+	//get data by Id
+	CommonData::NodeData& nData = pGd.pData.at(nId);
+	//Convert data type
+	CommonData::DevLINParam devParem = nData.ModelParam.value<CommonData::DevLINParam>();
+	switch (current_row)
+	{
+	case 2:
+		devParem.uLINType = index;
+		break;
+	case 3:
+		devParem.cChannel = index;
+		break;
+	case 4:
+	{
+		switch (index)
+		{
+		case 0:
+			devParem.uBaudRate = 19200;
+			break;
+		case 1:
+			devParem.uBaudRate = 125000;
+			break;
+		case 2:
+			devParem.uBaudRate = 250000;
+			break;
+		case 3:
+			devParem.uBaudRate = 500000;
+			break;
+		default:
+			break;
+		}
+	}
+	break;
+	default:
+		break;
+	}
+	pGd.pData.at(nId).ModelParam = QVariant::fromValue(devParem);
+}
+
 void NodePropertyWidget::UiInit()
 {
 	m_propertyTable = new QTableWidget(this);

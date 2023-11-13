@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Release/CANTestDevStudio.exe"
+			"path" : "RelWithDebInfo/CANTestDevStudio.exe"
 		},
 		{
-			"path" : "Release/CANTestDevStudio.pdb"
+			"path" : "RelWithDebInfo/CANTestDevStudio.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -39,25 +39,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 85,
+				"line" : 86,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 32,
+				"line" : 33,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 87,
+				"line" : 88,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 24,
+				"line" : 25,
 				"parent" : 0
 			},
 			{
@@ -103,7 +103,7 @@
 			{
 				"command" : 6,
 				"file" : 0,
-				"line" : 82,
+				"line" : 83,
 				"parent" : 0
 			},
 			{
@@ -115,7 +115,7 @@
 			{
 				"command" : 8,
 				"file" : 0,
-				"line" : 36,
+				"line" : 37,
 				"parent" : 0
 			}
 		]
@@ -126,7 +126,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -MD"
+					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /O2 /Ob1 /DNDEBUG -MD -Zi"
 				},
 				{
 					"backtrace" : 13,
@@ -166,7 +166,7 @@
 				},
 				{
 					"backtrace" : 0,
-					"path" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/include_Release"
+					"path" : "F:/Lyb-file/Code/Tools-dev/CANTestDevStudio/CANTestDevStudio/build/CANTestDevStudio_autogen/include_RelWithDebInfo"
 				},
 				{
 					"backtrace" : 15,
@@ -243,11 +243,11 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -MD",
+				"fragment" : "/DWIN32 /D_WINDOWS /EHsc /O2 /Ob1 /DNDEBUG -MD -Zi",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "/machine:x64 /INCREMENTAL:NO /subsystem:windows",
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:windows",
 				"role" : "flags"
 			},
 			{
@@ -328,7 +328,7 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/CANTestDevStudio_autogen/mocs_compilation_Release.cpp",
+			"path" : "build/CANTestDevStudio_autogen/mocs_compilation_RelWithDebInfo.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

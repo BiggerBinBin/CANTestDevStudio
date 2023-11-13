@@ -20,6 +20,7 @@ set(CMAKE_AUTOUIC ON)
 #增加QtNode的导出宏定义，这里选择动态库（由Export.hpp）
 add_definitions(-DNODE_EDITOR_SHARED)
 
+
 #查找需要的QT库文件
 find_package(Qt5Widgets)
 find_package(Qt5Core)

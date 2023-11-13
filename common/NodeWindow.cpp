@@ -16,7 +16,7 @@
 #include "./common/DeviceCANModel.h"
 #include "./common/SendCANModel.h"
 #include <DataFlowGraphModel>
-
+#include "./common/NodeGlobeData.h"
 #include "NodeFunctionStack.h"
 #include "./common/NodePropertyWidget.h"
 #include <qdebug.h>
@@ -93,8 +93,19 @@ NodeWindow::NodeWindow(QWidget *parent)
     l->setSpacing(2);
 
     QObject::connect(saveAction, &QAction::triggered, m_DflowGraphics, &DataFlowGraphicsScene::save);
+    QObject::connect(saveAction, &QAction::triggered, [this]() 
+    {
+        NodeGlobeData& nGb = NodeGlobeData::getInstance();
+        nGb.saveGlobeData();
+
+    });
 
     QObject::connect(loadAction, &QAction::triggered, m_DflowGraphics, &DataFlowGraphicsScene::load);
+    QObject::connect(loadAction, &QAction::triggered, [this]() 
+    {
+        NodeGlobeData& nGb = NodeGlobeData::getInstance();
+        nGb.loadGlobeData();
+    });
 
     QObject::connect(m_DflowGraphics, &DataFlowGraphicsScene::sceneLoaded, view, &GraphicsView::centerScene);
     static NodeFunctionStack nfs(dataFlowGraphModel, m_DflowGraphics);

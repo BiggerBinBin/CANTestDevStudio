@@ -24,4 +24,5 @@ private:
 	DataFlowGraphicsScene* m_DflowGraphics = nullptr;
 private Q_SLOTS:
 	void on_upNodeProperty_slot(NodeId id);
+	
 };

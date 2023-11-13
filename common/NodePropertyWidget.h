@@ -40,4 +40,5 @@ private:
 	void ParamInit();
 private Q_SLOTS:
 	void on_CANTypeCombobox_IndexChanged(int index);
+	void on_LINTypeCombobox_IndexChanged(int index);
 };
